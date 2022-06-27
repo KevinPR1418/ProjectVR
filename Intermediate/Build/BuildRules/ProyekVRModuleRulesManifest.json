@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"G:\\Unreal Engine Project\\ProyekVR\\Plugins\\UVRFLeap\\Source\\UVRFLeap\\UVRFLeap.Build.cs",
+		"G:\\Unreal Engine Project\\ProyekVR\\Plugins\\UVRFOculus\\Source\\UVRFOculus\\UVRFOculus.Build.cs",
+		"G:\\Unreal Engine Project\\ProyekVR\\Plugins\\UVRFSteamVR\\Source\\UVRFSteamVR\\UVRFSteamVR.Build.cs",
+		"G:\\Unreal Engine Project\\ProyekVR\\Plugins\\UVRF\\Source\\UVRF\\UVRF.Build.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
